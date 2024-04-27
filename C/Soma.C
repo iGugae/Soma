@@ -5,9 +5,9 @@ int main(void){
 
     //Entrada de dados
     printf("Digite um numero: ");
-    scanf("%d",&a);
+    scanf("%d", &a);
     printf("Digite outro numero: ");
-    scanf("%d",&b);
+    scanf("%d", &b);
 
     //Cálculo
     soma = a + b;
